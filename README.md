@@ -3,12 +3,9 @@ This nuget helps you to map Protobuf's types with Mapster
 # Usage
 Super easy. 
 
-First:
-```
-dotnet add package Mapster.Protobuf.extension --version 1.0.0
-```
+First install by nuget package manager.
 
-After install it by nuget package manager add this to your program.cs:
+Then, add this to your program.cs:
 
 
 ```
