@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JAHAN-SYSTEM\\source\\repos\\SwaggerUI.BodySave\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99E9C054-AACD-4387-9436-3783EA83E0C0}|SwaggerUI.BodySave\\SwaggerUI.BodySave.csproj|c:\\users\\jahan-system\\source\\repos\\swaggerui.bodysave\\swaggerui.bodysave\\swaggerui.bodysave.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{99E9C054-AACD-4387-9436-3783EA83E0C0}|SwaggerUI.BodySave\\SwaggerUI.BodySave.csproj|solutionrelative:swaggerui.bodysave\\swaggerui.bodysave.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99E9C054-AACD-4387-9436-3783EA83E0C0}|SwaggerUI.BodySave\\SwaggerUI.BodySave.csproj|c:\\users\\jahan-system\\source\\repos\\swaggerui.bodysave\\swaggerui.bodysave\\swagger-custom.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{99E9C054-AACD-4387-9436-3783EA83E0C0}|SwaggerUI.BodySave\\SwaggerUI.BodySave.csproj|solutionrelative:swaggerui.bodysave\\swagger-custom.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99E9C054-AACD-4387-9436-3783EA83E0C0}|SwaggerUI.BodySave\\SwaggerUI.BodySave.csproj|c:\\users\\jahan-system\\source\\repos\\swaggerui.bodysave\\swaggerui.bodysave\\swaggeruicustomizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99E9C054-AACD-4387-9436-3783EA83E0C0}|SwaggerUI.BodySave\\SwaggerUI.BodySave.csproj|solutionrelative:swaggerui.bodysave\\swaggeruicustomizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99E9C054-AACD-4387-9436-3783EA83E0C0}|SwaggerUI.BodySave\\SwaggerUI.BodySave.csproj|c:\\users\\jahan-system\\source\\repos\\swaggerui.bodysave\\swaggerui.bodysave\\swaggerui.bodysave.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{99E9C054-AACD-4387-9436-3783EA83E0C0}|SwaggerUI.BodySave\\SwaggerUI.BodySave.csproj|solutionrelative:swaggerui.bodysave\\swaggerui.bodysave.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SwaggerUI.BodySave",
+              "DocumentMoniker": "C:\\Users\\JAHAN-SYSTEM\\source\\repos\\SwaggerUI.BodySave\\SwaggerUI.BodySave\\SwaggerUI.BodySave.csproj",
+              "RelativeDocumentMoniker": "SwaggerUI.BodySave\\SwaggerUI.BodySave.csproj",
+              "ToolTip": "C:\\Users\\JAHAN-SYSTEM\\source\\repos\\SwaggerUI.BodySave\\SwaggerUI.BodySave\\SwaggerUI.BodySave.csproj",
+              "RelativeToolTip": "SwaggerUI.BodySave\\SwaggerUI.BodySave.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-17T07:39:48.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "swagger-custom.js",
+              "DocumentMoniker": "C:\\Users\\JAHAN-SYSTEM\\source\\repos\\SwaggerUI.BodySave\\SwaggerUI.BodySave\\swagger-custom.js",
+              "RelativeDocumentMoniker": "SwaggerUI.BodySave\\swagger-custom.js",
+              "ToolTip": "C:\\Users\\JAHAN-SYSTEM\\source\\repos\\SwaggerUI.BodySave\\SwaggerUI.BodySave\\swagger-custom.js",
+              "RelativeToolTip": "SwaggerUI.BodySave\\swagger-custom.js",
+              "ViewState": "AQIAACwAAAAAAAAAAAAcwE0AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-17T07:19:10.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SwaggerUI.BodySave.csproj",
+              "DocumentMoniker": "C:\\Users\\JAHAN-SYSTEM\\source\\repos\\SwaggerUI.BodySave\\SwaggerUI.BodySave\\SwaggerUI.BodySave.csproj",
+              "RelativeDocumentMoniker": "SwaggerUI.BodySave\\SwaggerUI.BodySave.csproj",
+              "ToolTip": "C:\\Users\\JAHAN-SYSTEM\\source\\repos\\SwaggerUI.BodySave\\SwaggerUI.BodySave\\SwaggerUI.BodySave.csproj",
+              "RelativeToolTip": "SwaggerUI.BodySave\\SwaggerUI.BodySave.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-16T17:07:08.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SwaggerUICustomizer.cs",
+              "DocumentMoniker": "C:\\Users\\JAHAN-SYSTEM\\source\\repos\\SwaggerUI.BodySave\\SwaggerUI.BodySave\\SwaggerUICustomizer.cs",
+              "RelativeDocumentMoniker": "SwaggerUI.BodySave\\SwaggerUICustomizer.cs",
+              "ToolTip": "C:\\Users\\JAHAN-SYSTEM\\source\\repos\\SwaggerUI.BodySave\\SwaggerUI.BodySave\\SwaggerUICustomizer.cs",
+              "RelativeToolTip": "SwaggerUI.BodySave\\SwaggerUICustomizer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T16:49:02.641Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

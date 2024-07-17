@@ -1,0 +1,13 @@
+C:\Users\JAHAN-SYSTEM\source\repos\SwaggerUI.BodySave\SwaggerUI.BodySave\bin\Debug\net8.0\SwaggerUI.BodySave.deps.json
+C:\Users\JAHAN-SYSTEM\source\repos\SwaggerUI.BodySave\SwaggerUI.BodySave\bin\Debug\net8.0\SwaggerUI.BodySave.dll
+C:\Users\JAHAN-SYSTEM\source\repos\SwaggerUI.BodySave\SwaggerUI.BodySave\bin\Debug\net8.0\SwaggerUI.BodySave.pdb
+C:\Users\JAHAN-SYSTEM\source\repos\SwaggerUI.BodySave\SwaggerUI.BodySave\obj\Debug\net8.0\SwaggerUI.BodySave.csproj.AssemblyReference.cache
+C:\Users\JAHAN-SYSTEM\source\repos\SwaggerUI.BodySave\SwaggerUI.BodySave\obj\Debug\net8.0\SwaggerUI.BodySave.EmbeddedFilesManifest.cache
+C:\Users\JAHAN-SYSTEM\source\repos\SwaggerUI.BodySave\SwaggerUI.BodySave\obj\Debug\net8.0\SwaggerUI.BodySave.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JAHAN-SYSTEM\source\repos\SwaggerUI.BodySave\SwaggerUI.BodySave\obj\Debug\net8.0\SwaggerUI.BodySave.AssemblyInfoInputs.cache
+C:\Users\JAHAN-SYSTEM\source\repos\SwaggerUI.BodySave\SwaggerUI.BodySave\obj\Debug\net8.0\SwaggerUI.BodySave.AssemblyInfo.cs
+C:\Users\JAHAN-SYSTEM\source\repos\SwaggerUI.BodySave\SwaggerUI.BodySave\obj\Debug\net8.0\SwaggerUI.BodySave.csproj.CoreCompileInputs.cache
+C:\Users\JAHAN-SYSTEM\source\repos\SwaggerUI.BodySave\SwaggerUI.BodySave\obj\Debug\net8.0\SwaggerUI.BodySave.dll
+C:\Users\JAHAN-SYSTEM\source\repos\SwaggerUI.BodySave\SwaggerUI.BodySave\obj\Debug\net8.0\refint\SwaggerUI.BodySave.dll
+C:\Users\JAHAN-SYSTEM\source\repos\SwaggerUI.BodySave\SwaggerUI.BodySave\obj\Debug\net8.0\SwaggerUI.BodySave.pdb
+C:\Users\JAHAN-SYSTEM\source\repos\SwaggerUI.BodySave\SwaggerUI.BodySave\obj\Debug\net8.0\ref\SwaggerUI.BodySave.dll

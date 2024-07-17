@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>SwaggerUI.BodySave</id>
+    <version>1.0.1</version>
+    <authors>SwaggerUI.BodySave</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="Microsoft.AspNetCore" version="2.1.7" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.AspNetCore.StaticFiles" version="2.1.1" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.FileProviders.Embedded" version="8.0.0" exclude="Build,Analyzers" />
+        <dependency id="Swashbuckle.AspNetCore" version="6.6.2" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\JAHAN-SYSTEM\source\repos\SwaggerUI.BodySave\SwaggerUI.BodySave\bin\Debug\net8.0\SwaggerUI.BodySave.dll" target="lib\net8.0\SwaggerUI.BodySave.dll" />
+  </files>
+</package>
