@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SwaggerUI.BodySave")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.6.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.6+0ef5cd54555e5321d6ceb110ceba13c8ee1a8786")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.6+6c9a66da81d39f75a13180deb2fe076bbf0dcf4f")]
 [assembly: System.Reflection.AssemblyProductAttribute("SwaggerUI.BodySave")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SwaggerUI.BodySave")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.6.0")]
