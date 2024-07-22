@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aiC+PHan3jQ=",
+  "dgSpecHash": "AAOWswKPYmE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\JAHAN-SYSTEM\\source\\repos\\SwaggerUI.BodySave\\SwaggerUI.BodySave\\SwaggerUI.BodySave.csproj",
+  "projectFilePath": "C:\\New folder\\SwaggerUI.BodySave\\SwaggerUI.BodySave\\SwaggerUI.BodySave.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\JAHAN-SYSTEM\\.nuget\\packages\\microsoft.aspnetcore\\2.1.7\\microsoft.aspnetcore.2.1.7.nupkg.sha512",
     "C:\\Users\\JAHAN-SYSTEM\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.1.1\\microsoft.aspnetcore.authentication.abstractions.2.1.1.nupkg.sha512",
