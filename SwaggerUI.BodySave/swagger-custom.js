@@ -50,6 +50,9 @@ document.addEventListener('DOMContentLoaded', () => {
                     const storedValue = localStorage.getItem(`endpointText${index}`);
                     if (storedValue) {
                         textArea.value = storedValue;
+                        textArea.body = storedValue;
+                        endpoint.querySelector('.body-param').textContent = storedValue;
+                        endpoint.querySelector('.body-param').textArea = storedValue;
                         alert('Content pasted from storage.');
                     } else {
                         alert('No content found in storage.');
