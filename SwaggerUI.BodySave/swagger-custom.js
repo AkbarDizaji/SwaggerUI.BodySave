@@ -1,4 +1,3 @@
-// custom-swagger.js
 document.addEventListener('DOMContentLoaded', () => {
     (function () {
         console.log('Custom Swagger UI script loaded');
@@ -33,10 +32,13 @@ document.addEventListener('DOMContentLoaded', () => {
             copyButton.textContent = 'Copy to Storage';
             copyButton.className = 'btn custom-copy';
             copyButton.onclick = function () {
-                const textArea = endpoint.querySelector('.body-param__text');
+                const textArea = endpoint.querySelector('textarea.body-param__text');
                 if (textArea) {
                     localStorage.setItem(`endpointText${index}`, textArea.value);
                     alert('Content copied to storage.');
+                    console.log(`Copied content: ${textArea.value}`);
+                } else {
+                    console.error('Textarea not found for copying');
                 }
             };
 
@@ -45,18 +47,27 @@ document.addEventListener('DOMContentLoaded', () => {
             pasteButton.textContent = 'Paste from Storage';
             pasteButton.className = 'btn custom-paste';
             pasteButton.onclick = function () {
-                const textArea = endpoint.querySelector('.body-param__text');
+                const textArea = endpoint.querySelector('textarea.body-param__text');
                 if (textArea) {
                     const storedValue = localStorage.getItem(`endpointText${index}`);
                     if (storedValue) {
                         textArea.value = storedValue;
-                        textArea.body = storedValue;
-                        endpoint.querySelector('.body-param').textContent = storedValue;
-                        endpoint.querySelector('.body-param').textArea = storedValue;
-                        alert('Content pasted from storage.');
+                        textArea.textContent = storedValue;
+                        textArea.innerHTML = storedValue;
+                        textArea.storedValue = storedValue;
+                        // Trigger input event to ensure the value is rendered properly
+                        const event = new Event('input', {
+                            bubbles: true,
+                            cancelable: true,
+                        });
+                        textArea.dispatchEvent(event);
+                        alert('Content pasted from Storage.');
+                        console.log(`Pasted content: ${storedValue}`);
                     } else {
                         alert('No content found in storage.');
                     }
+                } else {
+                    console.error('Textarea not found for pasting');
                 }
             };
 
