@@ -7,7 +7,7 @@ Super easy.
 First install by nuget package manager. or:
 
 ```
-dotnet add package SwaggerUI.BodySave --version 1.0.5
+dotnet add package SwaggerUI.BodySave --version 1.0.6
 ```
 
 Then, add this to your program.cs:
